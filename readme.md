@@ -9,12 +9,12 @@ You can use the [editor on GitHub](https://github.com/ZhixingHong/digitalCV/edit
 
 ### Education
 
-2018.09-Now  **Statistics Science Department, University of Toronto**
+2018.09—-Now  **Statistics Science Department, University of Toronto**
 
 Third Year, enrolled in Statistics Specialist and Statistics Specialist: Theory and Measure
 Mainly Studied: Statistics, Mathematics, Computer Science and Art and Architecture in Renaissance and Baroque
 
-2015.09—2018.06 **Hangzhou Foreign Language School, CAL Center**
+2015.09—-2018.06 **Hangzhou Foreign Language School, CAL Center**
 
 International High school, followed British education system
 Completed 5 A-level courses: Mathematics, Physics, Chemistry, Economics, Further Math
@@ -22,12 +22,19 @@ Completed 5 A-level courses: Mathematics, Physics, Chemistry, Economics, Further
 
 ### Internship
 
-##### Data Analyst @ Zhejiang Finance Assets Exchange
+##### Data Analyst @ Zhejiang Finance Assets Exchange 
 - Worked in development and planning department, used R and python to clean data
-- Used Excel and Tableau to draw tables and figures, used Word and PowerPoint to present daily and monthly
-analysis report
-- Used R to perform unsupervised machine learning, predicted the loyalty of consumers; used R to cluster
-consumers and based on the clustering predict the consumers’ spending
+- Used Excel and Tableau to draw tables and figures, used Word and PowerPoint to present daily and monthly analysis report
+- Used R to perform unsupervised machine learning, predicted the loyalty of consumers; used R to cluster consumers and based on the clustering predict the consumers’ spending
+
+##### Internship @ Holley Capital co., LTD
+- Worked in the administrative department and financial department, used Office Software as Excel to produce professional tables and figures
+
+##### Volunteer Teacher @ Hangzhou Tianyi Kindergarten
+- Assisted other teachers with 2016 new students enrollment event，guided and introduced kids and kids’ parents walking around the school
+- Devised kindergarten’s performance activity and guided kids to present different dramas on the stage
+- Devised events for International Children’s day, decorated campus, gained praise from both parents and other teachers
+
 
 
 ### Certificate and Skills
