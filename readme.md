@@ -40,20 +40,23 @@ _2016_
 
 ###  Self-Guided Program
 
-**2019.01—2019.04 Website Usage Analysis and Prediction** (Group) Group Leader
+**Website Usage Analysis and Prediction (Group)**
+*2019.01—2019.04 Group Leader*
 - Worked as group leader, assigned tasks to group members and organized group meetings
 - Used R Studio to perform data cleaning on the data given by Riipen.com (30k observations in 6 different csv files)，analyzed website usage from 2017 to 2019 based on different user type, built linear regression model (with accuracy around 68%) to predict the website usage
 
-**2020.07 Airbnb’s Activity Level with COVID-19**
+**Airbnb’s Activity Level with COVID-19**
+*2020.07*
 - Used Tableau to merge Shanghai, Hongkong and Toronto’s Airbnb data(updatedtoJune2020)
 - Analyzed the difference of activity level in each city and compare three city’s COVID-19 update data and predicted Airbnb activity level change trend.
 
-**2020.05 Male Body Fat Prediction (STA302)**
+**Male Body Fat Prediction (STA302)**
+*2020.05*
 - UtilizedRstudiotoselectandtidy3thousanddata.
 - Used backward and forward stepwise selection method to build multivariable regression model, analyzed the relationship between body fat and other physical index, predicted body fat for different patients
 
-**2019.11 Advertisement Response Rate**
-
+**Advertisement Response Rate**
+*2019.11*
 - Cleaned 10 thousand data in SAS Studio and used macrovariable to check and analysis consumers’ response rate to the advertisement.
 - Based on stepwise method to build a logistic model and predict the consumers’ response to different campaign strategy, helping company to design a more efficient campaign.
 
