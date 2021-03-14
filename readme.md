@@ -9,18 +9,25 @@ You can use the [editor on GitHub](https://github.com/ZhixingHong/digitalCV/edit
 
 ### Education
 
-**2018.09 - Now <br /> Statistics Science Department, University of Toronto**
+**_2018.09-Now_  Statistics Science Department, University of Toronto**
 
 Third Year, enrolled in Statistics Specialist and Statistics Specialist: Theory and Measure
 Mainly Studied: Statistics, Mathematics, Computer Science and Art and Architecture in Renaissance and Baroque
 
-**2015.09—2018.06 <br /> Hangzhou Foreign Language School, CAL Center**
+**_2015.09—2018.06_ Hangzhou Foreign Language School, CAL Center**
 
 International High school, followed British education system
 Completed 5 A-level courses: Mathematics, Physics, Chemistry, Economics, Further Math
 
 
 ### Internship
+
+#### Data Analyst @ Zhejiang Finance Assets Exchange 
+- Worked in development and planning department, used R and python to clean data
+- Used Excel and Tableau to draw tables and figures, used Word and PowerPoint to present daily and monthly
+analysis report
+- Used R to perform unsupervised machine learning, predicted the loyalty of consumers; used R to cluster
+consumers and based on the clustering predict the consumers’ spending
 
 
 ### Certificate and Skills
