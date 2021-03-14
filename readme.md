@@ -1,6 +1,6 @@
 ## Zhixing Hong
-_Statistics, Data Analyst_    
-Hangzhou, China & Toronto, Canada  🇨🇳➖🇨🇦
+_Statistics, Data Analyst_   
+🇨🇳Hangzhou, China & Toronto, Canada🇨🇦
 
 
 You can use the [editor on GitHub](https://github.com/ZhixingHong/digitalCV/edit/gh-pages/readme.md) to maintain and preview the content for your website in Markdown files.
@@ -9,13 +9,13 @@ You can use the [editor on GitHub](https://github.com/ZhixingHong/digitalCV/edit
 
 ### Education
 
-2018.09— Now  **Statistics Science Department, University of Toronto**
-
+**Statistics Science Department, University of Toronto**
+2018.09— Now
 Third Year, enrolled in Statistics Specialist and Statistics Specialist: Theory and Measure
 Mainly Studied: Statistics, Mathematics, Computer Science and Art and Architecture in Renaissance and Baroque
 
-2015.09— 2018.06 **Hangzhou Foreign Language School, CAL Center**
-
+**Hangzhou Foreign Language School, CAL Center**
+2015.09— 2018.06
 International High school, followed British education system
 Completed 5 A-level courses: Mathematics, Physics, Chemistry, Economics, Further Math
 
@@ -23,14 +23,17 @@ Completed 5 A-level courses: Mathematics, Physics, Chemistry, Economics, Further
 ### Internship
 
 ##### Data Analyst @ Zhejiang Finance Assets Exchange 
+_2020_
 - Worked in development and planning department, used R and python to clean data
 - Used Excel and Tableau to draw tables and figures, used Word and PowerPoint to present daily and monthly analysis report
 - Used R to perform unsupervised machine learning, predicted the loyalty of consumers; used R to cluster consumers and based on the clustering predict the consumers’ spending
 
-##### Internship @ Holley Capital co., LTD
+##### Internship @ Holley Capital co., LTD 
+_2017_
 - Worked in the administrative department and financial department, used Office Software as Excel to produce professional tables and figures
 
-##### Volunteer Teacher @ Hangzhou Tianyi Kindergarten
+##### Volunteer Teacher @ Hangzhou Tianyi Kindergarten 
+_2016_
 - Assisted other teachers with 2016 new students enrollment event，guided and introduced kids and kids’ parents walking around the school
 - Devised kindergarten’s performance activity and guided kids to present different dramas on the stage
 - Devised events for International Children’s day, decorated campus, gained praise from both parents and other teachers
