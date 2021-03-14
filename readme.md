@@ -1,7 +1,8 @@
 ## Zhixing Hong
 _Statistics, Data Analyst_   
 🇨🇳Hangzhou, China **&** Toronto, Canada🇨🇦
-wisteria.hong@mail.utoronto.ca
+
+email: wisteria.hong@mail.utoronto.ca
 
 [GitHub](https://github.com/ZhixingHong)/[LinkedIn](https://www.linkedin.com/in/zhixing-hong-300055179/)
 
