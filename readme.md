@@ -43,6 +43,8 @@ _2016_
 - Devised kindergarten’s performance activity and guided kids to present different dramas on the stage
 - Devised events for International Children’s day, decorated campus, gained praise from both parents and other teachers
 
+<br />
+
 ###  Self-Guided Program
 
 ##### Website Usage Analysis and Prediction (Group)
@@ -71,6 +73,8 @@ _2016_
 *2019.11*
 - Cleaned 10 thousand data in SAS Studio and used macrovariable to check and analysis consumers’ response rate to the advertisement.
 - Based on stepwise method to build a logistic model and predict the consumers’ response to different campaign strategy, helping company to design a more efficient campaign.
+
+<br />
 
 
 ### Certificate and Skills
