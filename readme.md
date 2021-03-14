@@ -1,10 +1,9 @@
 ## Zhixing Hong
 _Statistics, Data Analyst_   
 🇨🇳Hangzhou, China **&** Toronto, Canada🇨🇦
+wisteria.hong@mail.utoronto.ca
 
-
-
-[Email](wisteria.hong@mail.utoronto.ca)/[GitHub](https://github.com/ZhixingHong)/[LinkedIn]()
+[GitHub](https://github.com/ZhixingHong)/[LinkedIn](https://www.linkedin.com/in/zhixing-hong-300055179/)
 
 <br />
 
@@ -22,7 +21,6 @@ Mainly Studied: Statistics, Mathematics, Computer Science and Art and Architectu
 International High school, followed British education system
 Completed 5 A-level courses: Mathematics, Physics, Chemistry, Economics, Further Math
 
-<br />
 <br />
 
 ### Internship
