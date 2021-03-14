@@ -1,5 +1,7 @@
 ## Zhixing Hong
-_Statistics, Data Analyst_    Hangzhou, China🇨🇳 Toronto, Canada 🇨🇦 
+_Statistics, Data Analyst_    
+Hangzhou, China & Toronto, Canada  🇨🇳➖🇨🇦
+
 
 You can use the [editor on GitHub](https://github.com/ZhixingHong/digitalCV/edit/gh-pages/readme.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,15 +9,33 @@ You can use the [editor on GitHub](https://github.com/ZhixingHong/digitalCV/edit
 
 ### Education
 
-**2018.09 - Now     Statistics Science Department, University of Toronto**
+**2018.09 - Now <br /> Statistics Science Department, University of Toronto**
 
 Third Year, enrolled in Statistics Specialist and Statistics Specialist: Theory and Measure
 Mainly Studied: Statistics, Mathematics, Computer Science and Art and Architecture in Renaissance and Baroque
 
-**2015.09—2018.06   Hangzhou Foreign Language School, CAL Center**
+**2015.09—2018.06 <br /> Hangzhou Foreign Language School, CAL Center**
 
 International High school, followed British education system
 Completed 5 A-level courses: Mathematics, Physics, Chemistry, Economics, Further Math
+
+
+### Internship
+
+
+### Certificate and Skills
+
+**Data Analysis :**
+
+- SAS, R, MySQL
+- python
+- Tableau
+- SAS Certified Specialist: Base Programming Using SAS 9.4
+- SAS Certified Advanced Programmer for SAS 9
+
+**Other :**
+- Microsoft Office
+
 
 ```markdown
 Syntax highlighted code block
@@ -36,23 +56,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Internship
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhixingHong/digitalCV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Certificate and Skills
-
-**Data Analysis :**
-
-- SAS, R, MySQL
-- python
-- Tableau
-- SAS Certified Specialist: Base Programming Using SAS 9.4
-- SAS Certified Advanced Programmer for SAS 9
-
-**Other**
-- Microsoft Office
-  
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
