@@ -1,13 +1,19 @@
 ## Zhixing Hong
-_Statistics, Data Analyst   Hangzhou, China🇨🇳 -> Toronto, Canada 🇨🇦_  
+_Statistics, Data Analyst_    Hangzhou, China🇨🇳 Toronto, Canada 🇨🇦 
 
 You can use the [editor on GitHub](https://github.com/ZhixingHong/digitalCV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+[Email](wisteria.hong@mail.utoronto.ca)/[GitHub](https://github.com/ZhixingHong)/[LinkedIn]()
 
+### Education
 
-### Markdown
+**2018.09 - Now     Statistics Science Department, University of Toronto**
+Third Year, enrolled in Statistics Specialist and Statistics Specialist: Theory and Measure
+Mainly Studied: Statistics, Mathematics, Computer Science and Art and Architecture in Renaissance and Baroque
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**2015.09—2018.06   Hangzhou Foreign Language School, CAL Center**
+International High school, followed British education system
+Completed 5 A-level courses: Mathematics, Physics, Chemistry, Economics, Further Math
 
 ```markdown
 Syntax highlighted code block
