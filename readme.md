@@ -6,6 +6,8 @@ _Statistics, Data Analyst_
 
 [Email](wisteria.hong@mail.utoronto.ca)/[GitHub](https://github.com/ZhixingHong)/[LinkedIn]()
 
+<br />
+
 ### Education
 
 ##### Statistics Science Department, University of Toronto
@@ -20,6 +22,8 @@ Mainly Studied: Statistics, Mathematics, Computer Science and Art and Architectu
 International High school, followed British education system
 Completed 5 A-level courses: Mathematics, Physics, Chemistry, Economics, Further Math
 
+<br />
+<br />
 
 ### Internship
 
