@@ -1,9 +1,8 @@
 ## Zhixing Hong
 _Statistics, Data Analyst_   
-🇨🇳Hangzhou, China & Toronto, Canada🇨🇦
+🇨🇳Hangzhou, China **&** Toronto, Canada🇨🇦
 
 
-You can use the [editor on GitHub](https://github.com/ZhixingHong/digitalCV/edit/gh-pages/readme.md) to maintain and preview the content for your website in Markdown files.
 
 [Email](wisteria.hong@mail.utoronto.ca)/[GitHub](https://github.com/ZhixingHong)/[LinkedIn]()
 
@@ -47,6 +46,13 @@ _2016_
 - Worked as group leader, assigned tasks to group members and organized group meetings
 - Used R Studio to perform data cleaning on the data given by Riipen.com (30k observations in 6 different csv files)，analyzed website usage from 2017 to 2019 based on different user type, built linear regression model (with accuracy around 68%) to predict the website usage
 
+
+##### Picture to Cross-Stitch Pattern Transformer (STA314)
+*2020.10-2020.11*
+- Used R studio to write codes for producing the given picture's cross stitch pattern, based on the clustering
+- The cross stitch pattern could be colored, black-white; the user could also decide whether to color the background in the result pattern.
+
+
 ##### Airbnb’s Activity Level with COVID-19
 *2020.07*
 - Used Tableau to merge Shanghai, Hongkong and Toronto’s Airbnb data(updatedtoJune2020)
@@ -76,23 +82,3 @@ _2016_
 **Other :**
 - Microsoft Office
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
