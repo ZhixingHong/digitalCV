@@ -2,9 +2,9 @@
 _Statistics, Data Analyst_   
 🇨🇳Hangzhou, China **&** Toronto, Canada🇨🇦
 
-email: wisteria.hong@mail.utoronto.ca
 
-[GitHub](https://github.com/ZhixingHong)/[LinkedIn](https://www.linkedin.com/in/zhixing-hong-300055179/)
+[email](mailto:wisteria.hong@mail.utoronto.ca?subject=[GitHub])
+[GitHub](https://github.com/ZhixingHong)/[LinkedIn](https://www.linkedin.com/in/zhixing-hong-300055179/)/
 
 <br />
 
