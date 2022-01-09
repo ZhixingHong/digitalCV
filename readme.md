@@ -10,11 +10,12 @@ _Statistics, Data Analyst_
 ### Education
 
 ##### UNIVERSITY OF TORONTO								                Toronto, Canada
-Honors Bachelor of Science (Majors in Statistics Theory & Method | Minor in Economics) (GPA – 3.7/4.0)	       Sept 2018 – June 2022
-▪	Relevant Courses: Probability & Statistics, Data Analysis, Software Design, Markets, Competition, Strategy, Design, and Analysis of Experiments, Machine Learning, Time Series Analysis, Ethical Practice for Statisticians.
-▪	Dean's List Scholar, Faculty of Art and Science (2021 Winter/ 2019 Summer)
-▪	Gold prize in United Kingdom Mathematics Trust Senior Challenge (Top 10%) (2017)
-▪	SAS Certified Specialist in Base Programming and Advanced Programmer.
+_Honors Bachelor of Science (Majors in Statistics Theory & Method | Minor in Economics) (GPA – 3.7/4.0)_	       Sept 2018 – June 2022
+
+-	Relevant Courses: Probability & Statistics, Data Analysis, Software Design, Markets, Competition, Strategy, Design, and Analysis of Experiments, Machine Learning, Time Series Analysis, Ethical Practice for Statisticians.
+-	Dean's List Scholar, Faculty of Art and Science (2021 Winter/ 2019 Summer)
+-	Gold prize in United Kingdom Mathematics Trust Senior Challenge (Top 10%) (2017)
+-	SAS Certified Specialist in Base Programming and Advanced Programmer.
 
 
 <br />
