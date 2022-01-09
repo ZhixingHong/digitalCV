@@ -20,68 +20,48 @@ _Honors Bachelor of Science (Majors in Statistics Theory & Method | Minor in Eco
 
 <br />
 
-### Internship
+### PROFESSIONAL EXPERIENCE
 
-##### Data Analyst @ Zhejiang Finance Assets Exchange
-_2020_
-- Worked in development and planning department, used R and python to clean data
-- Used Excel and Tableau to draw tables and figures, used Word and PowerPoint to present daily and monthly analysis report
-- Used R to perform unsupervised machine learning, predicted the loyalty of consumers; used R to cluster consumers and based on the clustering predict the consumers’ spending
+##### NEW CHINA LIFE INSURANCE								            Hangzhou, China  
+_Data Analyst Intern_ 			    						                      June 2021 – Aug 2021
+-	Analyzed tons of branch personnel’s data using Excel and implemented data cleaning and data transformation techniques to improve the quality standards and risk control measures for the company.
+-	Conduct statistical analysis using R of loss information and identify trends for loss prevention to reduce operational and reputational risk across the company.
+-	Led a team of 5 and developed insurance and risk management programs for the new employees.
+-	Supported and facilitated the internal team in the identification and evaluation of different types of risks.
+-	Collaborated with other functional areas of the company to develop quality standards, strategy tactics, and systems for monitoring performance for multiple insurance transactions.
 
-##### Internship @ Holley Capital co., LTD
-_2017_
-- Worked in the administrative department and financial department, used Office Software as Excel to produce professional tables and figures
+#### ZHEJIANG FINANCE ASSETS EXCHANGE					          	            Hangzhou, China 
+_Data Analyst Intern_ 			   	                                                  Jul 2020 – Sept 2020
+-	Implemented unsupervised machine learning algorithms using R on customer data to segregate them into groups and predict their spending pattern.
+-	Onboarded 2 projects as part of the business development team by pitching details about various products.
+-	Developed a technical dashboard in Tableau to manage 53 client portfolios, improving the efficiency of processes such as credit modeling and monitoring systems by 27%.
+-	Assisted the team in number crunching and data structuring for the project using Tableau.
 
-##### Volunteer Teacher @ Hangzhou Tianyi Kindergarten
-_2016_
-- Assisted other teachers with 2016 new students enrollment event，guided and introduced kids and kids’ parents walking around the school
-- Devised kindergarten’s performance activity and guided kids to present different dramas on the stage
-- Devised events for International Children’s day, decorated campus, gained praise from both parents and other teachers
+
 
 <br />
 
-###  Self-Guided Program
+###  Projects
 
-##### Website Usage Analysis and Prediction (Group)
-*2019.01—2019.04 Group Leader*
-- Worked as group leader, assigned tasks to group members and organized group meetings
-- Used R Studio to perform data cleaning on the data given by Riipen.com (30k observations in 6 different csv files)，analyzed website usage from 2017 to 2019 based on different user type, built linear regression model (with accuracy around 68%) to predict the website usage
-
-
-##### Picture to Cross-Stitch Pattern Transformer (STA314)
-*2020.10-2020.11*
-- Used R studio to write codes for producing the given picture's cross stitch pattern, based on the clustering
-- The cross stitch pattern could be colored, black-white; the user could also decide whether to color the background in the result pattern.
+##### 2020 Election Prediction, supervised by Prof. Samantha-Jo Caetano				        Nov 2020 - Dec 2020
+_Group Leader_										                    	
+-	Led a team of 3 to work on the final report and accurately predicted the Liberal Party to be the winner.
+-	Applied regression algorithm using survey and lme4 packages to train the model and used backward stepwise selection process to predict the results for the elections.
 
 
-##### Airbnb’s Activity Level with COVID-19
-*2020.07*
-- Used Tableau to merge Shanghai, Hongkong and Toronto’s Airbnb data(updatedtoJune2020)
-- Analyzed the difference of activity level in each city and compare three city’s COVID-19 update data and predicted Airbnb activity level change trend.
+##### Picture to Cross-Stitch Pattern Transformer, supervised by Prof. Daniel Simpson	          	        Oct 2020 - Nov 2020
+-	Implemented K-means algorithm and multiple R functions (ggplot2, tidyverse packages) to extract the color component from the input image and convert the input image to lower resolution with a minimum decrease in the loss function.
+-	Deployed functions to output the corresponding cross-stitch pattern with different customizing options available.
 
-##### Male Body Fat Prediction (STA302)
-*2020.05*
-- UtilizedRstudiotoselectandtidy3thousanddata.
-- Used backward and forward stepwise selection method to build multivariable regression model, analyzed the relationship between body fat and other physical index, predicted body fat for different patients
 
-##### Advertisement Response Rate
-*2019.11*
-- Cleaned 10 thousand data in SAS Studio and used macrovariable to check and analysis consumers’ response rate to the advertisement.
-- Based on stepwise method to build a logistic model and predict the consumers’ response to different campaign strategy, helping company to design a more efficient campaign.
+##### Analysis of Airbnb’s Activity Level during Covid-19 Pandemic                                			            July 2020
+-	Analyzed 70k+ Airbnb data of 3 cities using ANOVA testing to predict the pattern of the customers' bookings and destinations.
+-	Conducted regression algorithm and support vector machine algorithm to predict Airbnb activity trend under the effect of Covid-19 and assessed model performance by cross-validation.
+
 
 <br />
 
 
-### Certificate and Skills
 
-**Data Analysis :**
 
-- SAS, R, MySQL
-- python
-- Tableau
-- SAS Certified Specialist: Base Programming Using SAS 9.4
-- SAS Certified Advanced Programmer for SAS 9
-
-**Other :**
-- Microsoft Office
 
