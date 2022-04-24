@@ -3,7 +3,7 @@ _Statistics, Data Analyst_
 🇨🇳Hangzhou, China **&** Toronto, Canada🇨🇦
 
 
-[email](mailto:wisteria.hong@mail.utoronto.ca?subject=[GitHub])/[GitHub](https://github.com/ZhixingHong)/[LinkedIn](https://www.linkedin.com/in/zhixing-hong-300055179/)/
+[E-mail](mailto:wisteria.hong@mail.utoronto.ca?subject=[GitHub])/[GitHub](https://github.com/ZhixingHong)/[LinkedIn](https://www.linkedin.com/in/zhixing-hong-300055179/)/ [PDF version](<a href="zhixinghong.github.io/digitalCV/Zhixing Hong CV_1.pdf" target="_blank">PDF.</a>)
 
 <br />
 
@@ -22,7 +22,7 @@ _Honors Bachelor of Science (Majors in Statistics Theory & Method | Minor in Eco
 ### PROFESSIONAL EXPERIENCE
 
 ##### NEW CHINA LIFE INSURANCE								            Hangzhou, China  
-_Data Analyst Intern_                             June 2021 – Aug 2021
+_Data Analyst Intern                             June 2021 – Aug 2021_
 - Analyzed tons of branch personnel’s data using Excel and implemented data cleaning and data transformation
 techniques to improve the quality standards and risk control measures for the company.
 - Conduct statistical analysis using R of loss information and identify trends for loss prevention to reduce operational and
@@ -33,7 +33,7 @@ monitoring performance for multiple insurance transactions.
 
 
 #### ZHEJIANG FINANCE ASSETS EXCHANGE					          	            Hangzhou, China 
-_Data Analyst Intern_ 			   	                                                  Jul 2020 – Sept 2020
+_Data Analyst Intern 			   	                                        Jul 2020 – Sept 2020_
 
 - Implemented unsupervised machine learning algorithms using R on customer data to segregate them into groups and predict their spending pattern.
 - Onboarded 2 projects as part of the business development team by pitching details about various products.
@@ -55,11 +55,13 @@ _Group Leader_
 
 
 ##### Picture to Cross-Stitch Pattern Transformer, supervised by Prof. Daniel Simpson	          	        Oct 2020 - Nov 2020
+
 -	Implemented K-means algorithm and multiple R functions (ggplot2, tidyverse packages) to extract the color component from the input image and convert the input image to lower resolution with a minimum decrease in the loss function.
 -	Deployed functions to output the corresponding cross-stitch pattern with different customizing options available.
 
 
 ##### Analysis of Airbnb’s Activity Level during Covid-19 Pandemic                                			            July 2020
+
 -	Analyzed 70k+ Airbnb data of 3 cities using ANOVA testing to predict the pattern of the customers' bookings and destinations.
 -	Conducted regression algorithm and support vector machine algorithm to predict Airbnb activity trend under the effect of Covid-19 and assessed model performance by cross-validation.
 
