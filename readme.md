@@ -9,13 +9,12 @@ _Statistics, Data Analyst_
 
 ### Education
 
-##### UNIVERSITY OF TORONTO								                Toronto, Canada
-_Honors Bachelor of Science (Majors in Statistics Theory & Method | Minor in Economics) (GPA – 3.7/4.0)_	       Sept 2018 – June 2022
+##### UNIVERSITY OF TORONTO             Toronto, Canada Sept 2018 – June 2022
+_Honors Bachelor of Science (Majors in Statistics Theory & Method | Minor in Economics) (GPA – 3.73/4.0)_
+- Dean's List Scholar, Faculty of Art and Science (2021 Winter/ 2019 Summer)
+- Gold prize in United Kingdom Mathematics Trust Senior Challenge (Top 10%) (2017)
 
--	Relevant Courses: Probability & Statistics, Data Analysis, Software Design, Markets, Competition, Strategy, Design, and Analysis of Experiments, Machine Learning, Time Series Analysis, Ethical Practice for Statisticians.
--	Dean's List Scholar, Faculty of Art and Science (2021 Winter/ 2019 Summer)
--	Gold prize in United Kingdom Mathematics Trust Senior Challenge (Top 10%) (2017)
--	SAS Certified Specialist in Base Programming and Advanced Programmer.
+
 
 
 <br />
@@ -23,19 +22,25 @@ _Honors Bachelor of Science (Majors in Statistics Theory & Method | Minor in Eco
 ### PROFESSIONAL EXPERIENCE
 
 ##### NEW CHINA LIFE INSURANCE								            Hangzhou, China  
-_Data Analyst Intern_ 			    						                      June 2021 – Aug 2021
--	Analyzed tons of branch personnel’s data using Excel and implemented data cleaning and data transformation techniques to improve the quality standards and risk control measures for the company.
--	Conduct statistical analysis using R of loss information and identify trends for loss prevention to reduce operational and reputational risk across the company.
--	Led a team of 5 and developed insurance and risk management programs for the new employees.
--	Supported and facilitated the internal team in the identification and evaluation of different types of risks.
--	Collaborated with other functional areas of the company to develop quality standards, strategy tactics, and systems for monitoring performance for multiple insurance transactions.
+_Data Analyst Intern_                             June 2021 – Aug 2021
+- Analyzed tons of branch personnel’s data using Excel and implemented data cleaning and data transformation
+techniques to improve the quality standards and risk control measures for the company.
+- Conduct statistical analysis using R of loss information and identify trends for loss prevention to reduce operational and
+reputational risk across the company.
+- Compiled a new script integrating multiple QC steps, improving the productivity and efficiency of the pipeline.- Supported and facilitated the internal team in the identification and evaluation of different types of risks.
+- Collaborated with other functional areas of the company to develop quality standards, strategy tactics, and systems for
+monitoring performance for multiple insurance transactions.
+
 
 #### ZHEJIANG FINANCE ASSETS EXCHANGE					          	            Hangzhou, China 
 _Data Analyst Intern_ 			   	                                                  Jul 2020 – Sept 2020
--	Implemented unsupervised machine learning algorithms using R on customer data to segregate them into groups and predict their spending pattern.
--	Onboarded 2 projects as part of the business development team by pitching details about various products.
--	Developed a technical dashboard in Tableau to manage 53 client portfolios, improving the efficiency of processes such as credit modeling and monitoring systems by 27%.
--	Assisted the team in number crunching and data structuring for the project using Tableau.
+
+- Implemented unsupervised machine learning algorithms using R on customer data to segregate them into groups and predict their spending pattern.
+- Onboarded 2 projects as part of the business development team by pitching details about various products.
+- Developed a technical dashboard in Tableau to manage 53 client portfolios, improving the efficiency of processes such
+as credit modeling and monitoring systems by 27%.
+- Assisted the team in number crunching and data structuring for the project using Tableau.
+
 
 
 
