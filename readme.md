@@ -3,7 +3,8 @@ _Statistics, Data Analyst_
 🇨🇳Hangzhou, China **&** Toronto, Canada🇨🇦
 
 
-[E-mail](mailto:wisteria.hong@mail.utoronto.ca?subject=[GitHub])/[GitHub](https://github.com/ZhixingHong)/[LinkedIn](https://www.linkedin.com/in/zhixing-hong-300055179/)/ [PDF version](<a href="zhixinghong.github.io/digitalCV/Zhixing Hong CV_1.pdf" target="_blank">PDF.</a>)
+[E-mail](mailto:wisteria.hong@mail.utoronto.ca?subject=[GitHub])/[GitHub](https://github.com/ZhixingHong)/[LinkedIn](https://www.linkedin.com/in/zhixing-hong-300055179/)/ [PDF version](<a href="zhixinghong.github.io/blob/6e8742670c162ad7b96f6b92d0aaa52ce2912da9/Zhixing%20Hong%20CV_1.pdf" target="_blank">PDF.</a>)
+
 
 <br />
 
